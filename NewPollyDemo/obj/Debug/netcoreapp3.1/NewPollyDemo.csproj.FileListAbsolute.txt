@@ -1,0 +1,15 @@
+D:\C#Projeleri\NewPollyDemo\NewPollyDemo\bin\Debug\netcoreapp3.1\NewPollyDemo.exe
+D:\C#Projeleri\NewPollyDemo\NewPollyDemo\obj\Debug\netcoreapp3.1\NewPollyDemo.csprojAssemblyReference.cache
+D:\C#Projeleri\NewPollyDemo\NewPollyDemo\obj\Debug\netcoreapp3.1\NewPollyDemo.AssemblyInfoInputs.cache
+D:\C#Projeleri\NewPollyDemo\NewPollyDemo\obj\Debug\netcoreapp3.1\NewPollyDemo.AssemblyInfo.cs
+D:\C#Projeleri\NewPollyDemo\NewPollyDemo\bin\Debug\netcoreapp3.1\NewPollyDemo.deps.json
+D:\C#Projeleri\NewPollyDemo\NewPollyDemo\bin\Debug\netcoreapp3.1\NewPollyDemo.runtimeconfig.json
+D:\C#Projeleri\NewPollyDemo\NewPollyDemo\bin\Debug\netcoreapp3.1\NewPollyDemo.runtimeconfig.dev.json
+D:\C#Projeleri\NewPollyDemo\NewPollyDemo\bin\Debug\netcoreapp3.1\NewPollyDemo.dll
+D:\C#Projeleri\NewPollyDemo\NewPollyDemo\bin\Debug\netcoreapp3.1\NewPollyDemo.pdb
+D:\C#Projeleri\NewPollyDemo\NewPollyDemo\bin\Debug\netcoreapp3.1\Polly.dll
+D:\C#Projeleri\NewPollyDemo\NewPollyDemo\obj\Debug\netcoreapp3.1\NewPollyDemo.csproj.CoreCompileInputs.cache
+D:\C#Projeleri\NewPollyDemo\NewPollyDemo\obj\Debug\netcoreapp3.1\NewPollyDemo.csproj.CopyComplete
+D:\C#Projeleri\NewPollyDemo\NewPollyDemo\obj\Debug\netcoreapp3.1\NewPollyDemo.dll
+D:\C#Projeleri\NewPollyDemo\NewPollyDemo\obj\Debug\netcoreapp3.1\NewPollyDemo.pdb
+D:\C#Projeleri\NewPollyDemo\NewPollyDemo\obj\Debug\netcoreapp3.1\NewPollyDemo.genruntimeconfig.cache

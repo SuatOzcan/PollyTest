@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2LTVsk55TuFP7AJwskceiC1u7mJTJA8bZERIKhr4lI8znl4aCIGvPLCM+LU3SjXLZQRrgYcjC7yzmJ1V6YP5Rw==",
+  "success": true,
+  "projectFilePath": "D:\\C#Projeleri\\NewPollyDemo\\NewPollyDemo\\NewPollyDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\suato\\.nuget\\packages\\polly\\7.2.1\\polly.7.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}
